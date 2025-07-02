@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid0123&label=Profile%20views&color=0e75b6&style=flat" alt="jahid0123" /> </p>
 
-- 🔭 I’m currently working on [Rent House](https://github.com/jahid0123/rent-house.git)
+- 🔭 I’m currently working on [Rent House (Flutter Application)](https://github.com/jahid0123/rent-house.git)
 
 - 🌱 I’m currently learning **Java, Spring, Spring Boot, Oracle & Flutter**
 
