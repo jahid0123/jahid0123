@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid0123&label=Profile%20views&color=0e75b6&style=flat" alt="jahid0123" /> </p>
 
-- 🔭 I’m currently working at [Softcafe IT Solution Ltd.]
+- 🔭 I’m currently working at [Softcafe IT Solution Ltd.](https://softcafesolution.com)
 
 - 🌱 I’m currently learning **Java, Spring, Spring Boot, Oracle & Angular**
 
