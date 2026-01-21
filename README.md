@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid0123&label=Profile%20views&color=0e75b6&style=flat" alt="jahid0123" /> </p>
 
-- 🔭 I’m currently training with on [IsDB-BISEW IT Scholarship Programme](https://www.isdb-bisew.org/)
+- 🔭 I’m currently working at [Softcafe IT Solution Ltd.]
 
-- 🌱 I’m currently learning **Java, Spring, Spring Boot, Oracle & Flutter**
+- 🌱 I’m currently learning **Java, Spring, Spring Boot, Oracle & Angular**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, MySQL, Oracle Database, PostgreSQL, UML, Git, Java, Angular.**
+- 💬 Ask me about **HTML, CSS, JavaScript, MySQL, Oracle Database, PostgreSQL, UML, Git, Java, Angular, Flutter.**
 
 - 📫 How to reach me **ajahid97@gmail.com**
 
